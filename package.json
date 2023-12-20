@@ -1,0 +1,14 @@
+{
+  "name": "commitgpt",
+  "version": "1.0.0",
+  "description": "GPT 모델을 이용해 커밋 메시지를 작성해주는 웹서비스",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.24.0"
+  }
+}
